@@ -1,1 +1,1 @@
-# Tomasulo-Architecture
+# Tomasulo-Algorithm
